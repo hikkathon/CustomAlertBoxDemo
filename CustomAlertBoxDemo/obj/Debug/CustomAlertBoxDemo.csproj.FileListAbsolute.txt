@@ -1,0 +1,10 @@
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.exe.config
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.exe
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.pdb
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.csprojAssemblyReference.cache
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Form1.resources
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Properties.Resources.resources
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.csproj.GenerateResource.cache
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.exe
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.pdb
+C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
