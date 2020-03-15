@@ -16,6 +16,7 @@ namespace CustomAlertBoxDemo
         public Form_Alert()
         {
             InitializeComponent();
+            TopMost = true;
         }
 
         public enum enmAction
@@ -43,7 +44,7 @@ namespace CustomAlertBoxDemo
             switch (this.action)
             {
                 case enmAction.wait:
-                    timer1.Interval = 10000;
+                    timer1.Interval = 50000;
                     action = enmAction.close;
                     break;
 
@@ -87,7 +88,7 @@ namespace CustomAlertBoxDemo
             this.StartPosition = FormStartPosition.Manual;
             string fname;
 
-            for(int i = 0; i < 14; i++)
+            for(int i = 0; i < 15; i++)
             {
                 fname = "alert" + i.ToString();
                 Form_Alert frm = (Form_Alert)Application.OpenForms[fname];
@@ -101,7 +102,7 @@ namespace CustomAlertBoxDemo
                     break;
                 }
             }
-            this.x = Screen.PrimaryScreen.WorkingArea.Width - base.Width + this.Size.Height;
+            this.x = Screen.PrimaryScreen.WorkingArea.Width - base.Width + 5;
 
             switch (type)
             {
@@ -119,7 +120,7 @@ namespace CustomAlertBoxDemo
                     break;
                 case enmType.Warning:
                     this.pictureBox1.Image = Resources.warning;
-                    this.BackColor = Color.DarkOrange;
+                    this.BackColor = Color.OrangeRed;
                     break;
             }
 
