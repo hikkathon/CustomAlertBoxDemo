@@ -43,7 +43,7 @@ namespace CustomAlertBoxDemo
             switch (this.action)
             {
                 case enmAction.wait:
-                    timer1.Interval = 5000;
+                    timer1.Interval = 10000;
                     action = enmAction.close;
                     break;
 
@@ -114,7 +114,7 @@ namespace CustomAlertBoxDemo
                     this.BackColor = Color.DarkRed;
                     break;
                 case enmType.Info:
-                    this.pictureBox1.Image = Resources.success;
+                    this.pictureBox1.Image = Resources.info;
                     this.BackColor = Color.RoyalBlue;
                     break;
                 case enmType.Warning:
