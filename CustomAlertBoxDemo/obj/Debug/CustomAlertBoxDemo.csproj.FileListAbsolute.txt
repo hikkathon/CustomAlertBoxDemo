@@ -8,3 +8,13 @@ C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\
 C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.exe
 C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.pdb
 C:\Users\MyPC1\Documents\hikkathon\github\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.exe.config
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.exe
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\bin\Debug\CustomAlertBoxDemo.pdb
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.csprojAssemblyReference.cache
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Form1.resources
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Form_Alert.resources
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.Properties.Resources.resources
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.csproj.GenerateResource.cache
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.exe
+D:\#1 Work\#1 Рабочая папка\#1 Programming\Coding\C#\_Git\CustomAlertBoxDemo\CustomAlertBoxDemo\obj\Debug\CustomAlertBoxDemo.pdb
